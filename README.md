@@ -22,6 +22,28 @@ Join us as we unlock the secrets of fusion and discover if it truly holds the ke
 
 ---
 
+- [How close are we to creating a Nuclear FUSION power plant?](#how-close-are-we-to-creating-a-nuclear-fusion-power-plant)
+  - [Fusion Energy: Beyond the Basics](#fusion-energy-beyond-the-basics)
+  - [Fusion Energy Commercialization: Challenges and Opportunities](#fusion-energy-commercialization-challenges-and-opportunities)
+  - [Fusion Energy: Collaboration, Competition, and Societal Impact](#fusion-energy-collaboration-competition-and-societal-impact)
+  - [Fusion Energy Regulation: A Risk-Informed Approach](#fusion-energy-regulation-a-risk-informed-approach)
+  - [Communicating Fusion Energy to the Public](#communicating-fusion-energy-to-the-public)
+  - [Fusion Energy Economics](#fusion-energy-economics)
+  - [Fusion Energy: Equitable Access for All Nations](#fusion-energy-equitable-access-for-all-nations)
+  - [Fusion Energy: Promise and Challenges](#fusion-energy-promise-and-challenges)
+  - [Fusion Energy: Safety, Risks, and Environmental Impact](#fusion-energy-safety-risks-and-environmental-impact)
+  - [Fusion Power Technologies](#fusion-power-technologies)
+  - [Fusion Power: Challenges and Prospects](#fusion-power-challenges-and-prospects)
+  - [Fusion Energy: From Zero to Hero](#fusion-energy-from-zero-to-hero)
+  - [Fusion Power: Benefits for All Stakeholders](#fusion-power-benefits-for-all-stakeholders)
+  - [Fusion Power Stakeholders](#fusion-power-stakeholders)
+  - [Nuclear Fusion: Promise and Challenges](#nuclear-fusion-promise-and-challenges)
+  - [Fusion Power: Promise and Challenges](#fusion-power-promise-and-challenges)
+  - [Nuclear Fusion Power: Principles, Challenges, and Future Prospects](#nuclear-fusion-power-principles-challenges-and-future-prospects)
+
+
+---
+
 ## Fusion Energy: Beyond the Basics
 
 Thinking outside the box, there are a few intriguing aspects related to fusion energy that could enrich a podcast discussion, going beyond the points already covered in this conversation:
